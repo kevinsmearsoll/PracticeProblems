@@ -46,11 +46,7 @@
     <Compile Include="LeetCode122.cs" />
     <Compile Include="LeetCode169.cs" />
     <Compile Include="LeetCode24.cs" />
-    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="App.config" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
